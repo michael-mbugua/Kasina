@@ -1,0 +1,33 @@
+.S-container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.skill{
+    background-color: #1c1427;
+}
+.skill h2{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: 200;
+}
+.cards{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 2vh;
+
+}
+.cards:hover{
+    background-color: aqua;
+    color: #1c1427;
+    cursor: pointer;
+}
+.left-cards{
+    display: flex;
+}
