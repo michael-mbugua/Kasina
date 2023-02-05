@@ -1,0 +1,19 @@
+.links{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 1vh;
+}
+a:hover{
+    background-color: aqua;
+    color: black;
+}
+li{
+    text-decoration: none;
+}

@@ -1,7 +1,6 @@
 import React from 'react';
 import './Home.css'
 import Kasina1 from '../assets/images/Kasina1.jpg'
-import Kasina2 from '../assets/images/Kasina2.jpg'
 
 function Home() {
   return (
