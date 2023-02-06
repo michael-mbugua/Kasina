@@ -19,7 +19,7 @@ function Education() {
             </tr>
             <tr>
                 <td>2014-2018</td>
-                <td>lorem 20</td>
+                <td>Nkubu high school</td>
                 <td>KCSE - high school education</td>
             </tr>
             
