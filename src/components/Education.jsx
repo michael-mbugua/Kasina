@@ -1,9 +1,11 @@
 import React from 'react'
 import './Education.css'
+import Navbar from './Navbar'
 
 function Education() {
   return (
     <div className='Education-header'>
+      <Navbar/>
         <h2>Education</h2>
       <div className="table-set">
       <table>

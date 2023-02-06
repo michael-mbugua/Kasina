@@ -1,11 +1,14 @@
 import React from 'react';
 import './Home.css'
 import Kasina1 from '../assets/images/Kasina1.jpg'
+import Navbar from './Navbar';
 
 function Home() {
   return (
     <div className='header'>
+      <Navbar/>
             <div className='Main-container'>
+
                 <div className='description'>
                     <h2>Hi There!</h2>
                     <h1>I'm Cornelius Kasina</h1>

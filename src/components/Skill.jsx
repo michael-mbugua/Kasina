@@ -1,9 +1,11 @@
 import React from 'react'
+import Navbar from './Navbar'
 import './skills.css'
 
 function Skill() {
   return (
     <div className="skill">
+      <Navbar/>
       <h2>My skills</h2>
       <div className='S-container'>
         <div className="left-cards">

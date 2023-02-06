@@ -1,5 +1,9 @@
 .links{
     display: flex;
+    justify-content: center;
+}
+.navlinks{
+    background-color: #1c1427;
 }
 a{
     text-decoration: none;
@@ -9,11 +13,14 @@ a{
     border: 1px solid black;
     cursor: pointer;
     border-radius: 1vh;
+    margin-right: 20px;
+    justify-content: space-around;
 }
 a:hover{
     background-color: aqua;
     color: black;
 }
-li{
+a{
     text-decoration: none;
+    list-style: none;
 }
